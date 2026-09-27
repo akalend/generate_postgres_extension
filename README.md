@@ -1,5 +1,5 @@
-# create_postgres_extension
-The python script for autogenerate the postgresql extension
+# generate_postgres_extension
+The python script for autogenerate the postgresql extension by name
 
 ## Usage
 
